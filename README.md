@@ -1,0 +1,2 @@
+# PredAnalytics
+Test Shiny aplication
